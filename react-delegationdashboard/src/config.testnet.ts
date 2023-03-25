@@ -26,7 +26,7 @@ export const auctionContract: string =
 export const stakingContract: string =
   'erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqllls0lczs7';
 export const delegationManagerContract: string =
-  'erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqylllslmq6y6';
+  'erd124jv8f3xn57zezsme7nkuzryerawx2qw098kl538rmld054ys08suay2t4';
 export const walletConnectBridge: string = 'https://bridge.walletconnect.org';
 export const walletConnectDeepLink: string =
   'https://maiar.page.link/?apn=com.elrond.maiar.wallet&isi=1519405832&ibi=com.elrond.maiar.wallet&link=https://maiar.com/';
